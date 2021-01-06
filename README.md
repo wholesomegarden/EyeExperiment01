@@ -6,6 +6,7 @@
 - [x] auto deploy with heroku
 - [ ] custom domain url
 - [ ] load and display images
+- [ ] scale images based on card size
 - [ ] add timer to site
 - [ ] changing the site when timer is done
 - [ ] basic experiment flow complete
