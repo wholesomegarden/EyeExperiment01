@@ -3,7 +3,7 @@
 ## here we will define the scope of work regarding the experiment
 
 - [ ] define all features - experiment architecture
-- [x] auto deploy with roku
+- [x] auto deploy with heroku
 - [ ] custom domain url
 - [ ] load and display images
 - [ ] add timer to site
